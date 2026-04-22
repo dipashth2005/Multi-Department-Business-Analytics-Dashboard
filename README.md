@@ -16,7 +16,9 @@ Product Performance
 Supply Chain Tracking
 Marketing ROI Analysis
 HR Metrics Dashboard
-Tools Used:
+
+**Tools Used:**
+
 Microsoft Excel
 Power Query
 Power Pivot
